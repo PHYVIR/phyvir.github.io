@@ -7,10 +7,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: program.qmd
-        text: Program
-      - href: abstracts.qmd
-        text: Abstracts
+      - href: mission.qmd
+        text: Mission
     right:
       - href: https://www.nwo.nl/en/projects/afomm75533
         text: NWO
