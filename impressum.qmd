@@ -4,11 +4,6 @@ Assistant Professor for Eco-evolutionary Bioinformatics
 GELIFES, University of Groningen
 Nijenborgh 7, 9747 AG Groningen, The Netherlands  
 
-### Institution
-This website is part of academic activities associated with the Max Planck Society, Germany.
-The views expressed here are those of the author(s) and do not necessarily represent the
-institution’s positions.
-
 ### Disclaimer
 This site contains academic and educational content provided without commercial intent.
 External links are provided for informational purposes; their content remains the

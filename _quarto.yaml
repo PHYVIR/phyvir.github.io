@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Ringberg 2025"
+  title: "PHYVIR"
   navbar:
     left:
       - href: index.qmd
@@ -12,14 +12,14 @@ website:
       - href: abstracts.qmd
         text: Abstracts
     right:
-      - href: https://www.schloss-ringberg.de/home
-        text: Venue
-      - href: travel.qmd
-        text: Travel
+      - href: https://www.nwo.nl/en/projects/afomm75533
+        text: NWO
+      - href: https://www.nioz.nl/en/news-and-blogs/news/nwo-science-xl-award-for-resolving-marine-phytoplankton-virus-interactions
+        text: NIOZ
       - href: contact.qmd
         text: Contact
   page-footer:
-    left: "© 2025 Thomas Hackl"
+    left: "© 2026 PHYVIR Consortium"
     right: "[Impressum](impressum.qmd)"
 
 format:
