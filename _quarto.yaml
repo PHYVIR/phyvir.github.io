@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Ringberg 2025"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: program.qmd
+        text: Program
+      - href: abstracts.qmd
+        text: Abstracts
+    right:
+      - href: https://www.schloss-ringberg.de/home
+        text: Venue
+      - href: travel.qmd
+        text: Travel
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    left: "© 2025 Thomas Hackl"
+    right: "[Impressum](impressum.qmd)"
+
+format:
+  html:
+    theme: lux # flatly darkly
+    toc: true
