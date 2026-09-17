@@ -1,6 +1,6 @@
 ### Website maintainer / Responsible for content
-Dr. Thomas Hackl | 📧 t.hackl@rug.nl  
-Assistant Professor for Eco-evolutionary Bioinformatics  
+Dr. Thomas Hackl | 📧 <t.hackl@rug.nl>
+Assistant Professor for [Eco-Evolutionary Bioinformatics](https://research.rug.nl/en/persons/thomas-hackl/)
 GELIFES, University of Groningen
 Nijenborgh 7, 9747 AG Groningen, The Netherlands  
 

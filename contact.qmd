@@ -1,6 +1,6 @@
-# PIs
+# Questions?
+For questions about the summer class or the application process, contact:
 
-Thomas Hackl\
-[Eco-Evolutionary Bioinformatics, University of Groningen](https://research.rug.nl/en/persons/thomas-hackl/)
-
-...
+Dr. Thomas Hackl | 📧 <t.hackl@rug.nl>
+Assistant Professor for [Eco-Evolutionary Bioinformatics](https://research.rug.nl/en/persons/thomas-hackl/)
+GELIFES, University of Groningen
