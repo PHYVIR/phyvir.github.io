@@ -1,5 +1,5 @@
 ---
-title: "PHYVIR MSc Summer Class at Sea"
+title: "PHYVIR hands-on summer MSc Class at Sea"
 subtitle: "Marine phytoplankton and virus ecology across the North Atlantic"
 ---
 
@@ -12,21 +12,22 @@ The PHYVIR consortium invites MSc students enrolled at Dutch universities to par
 
 The class offers an opportunity to experience marine research from the inside: living and working aboard a research vessel, participating in oceanographic sampling and onboard analyses and working directly with researchers studying phytoplankton, viruses, microbial communities and the ocean environment.
 
+
 ## **What is PHYVIR?**
 
-Microscopic phytoplankton form the foundation of marine food webs, contribute roughly half of global primary production and oxygen production, and play a major role in global carbon and nutrient cycles. But phytoplankton are also infected by viruses.
+Microscopic phytoplankton form the foundation of marine food webs, contribute roughly half of global primary production and oxygen production, and play a major role in global carbon and nutrient cycles. Phytoplankton are grazed but also infected by viruses.
 
 These viruses can kill large numbers of phytoplankton cells, alter the composition of marine communities, and redirect carbon and nutrients through the ocean ecosystem. Yet we still know surprisingly little about how important these processes are at larger spatial scales or how they may change as the oceans warm and environmental conditions shift.
 
-[PHYVIR — Resolving Marine Phytoplankton–Virus Interactions from Local to Global Scales](https://www.nioz.nl/en/research/projects/phyvir) brings together researchers in marine viral ecology, phytoplankton ecology and physiology, biological oceanography, genomics, bioinformatics and ecological modelling. The project combines laboratory experiments, environmental genomics, oceanographic expeditions and mathematical models to understand how phytoplankton–virus interactions affect marine ecosystems and global biogeochemical cycles.
+[PHYVIR — Resolving Marine Phytoplankton–Virus Interactions from Local to Global Scales](https://www.nioz.nl/en/research/projects/phyvir) brings together researchers in marine viral ecology, phytoplankton ecology and physiology, biological oceanography, genomics, bioinformatics and ecological modelling. The project combines laboratory experiments, environmental genomics, oceanographic expeditions and mathematical models to investigate functional traits of phytoplankton and viruses, and to understand how phytoplankton–virus interactions affect marine ecosystems and global biogeochemical cycles.
 
 PHYVIR is coordinated by **Prof. Corina Brussaard at NIOZ — Royal Netherlands Institute for Sea Research**, together with researchers at NIOZ, the University of Amsterdam, the Netherlands Institute of Ecology (NIOO-KNAW), and the University of Groningen.
 
 ## **The expedition**
 
-The PHYVIR research cruise will travel through the **North Atlantic from the Azores to Iceland**, crossing a range of different oceanographic regions along the way.
+The PHYVIR research cruise will take place in the **North Atlantic Ocean along a latitudinal gradient**, crossing different oceanographic provinces along the way.
+The scientific team will investigate how environmental conditions, phytoplankton communities and their viruses change from (sub)tropical to subpolar waters. The different variables will include oceanographic conditions, microbial abundances and biomass, phytoplankton activity and cellular composition, phytoplankton loss rates, multi-omics of phytoplankton and virus communities.
 
-Across this gradient, the scientific team will investigate how environmental conditions, phytoplankton communities and their viruses change from subtropical to subpolar waters. Measurements will include oceanographic conditions, phytoplankton community composition and activity, viral abundance and infection, microbial diversity and the communities' molecular characteristics.
 
 As a participant in the summer class, you will join this expedition as part of the scientific team rather than follow a separate classroom. Check out this year’s [PHYVIR expedition blog](https://www.nioz.nl/en/news-and-blogs/blog/phyvir-expedition) for first-hand impressions.
 
@@ -34,15 +35,17 @@ As a participant in the summer class, you will join this expedition as part of t
 
 The precise programme will depend on the scientific activities and conditions at sea. Daily tasks will be linked to one of the PHYVIR subprojects, led by different supervisors. Activities may include:
 
-* collecting seawater and other environmental samples;  
-* participating in oceanographic sampling operations;  
-* processing samples onboard;  
-* microscopy, flow cytometry and other measurements of microbial and phytoplankton communities;  
-* measurements related to phytoplankton physiology and viral infection;  
-* preparation of samples for molecular and genomic analyses;  
-* working with environmental, biological or genomic datasets;  
-* discussing experiments and results with researchers aboard the vessel;  
-* short lectures, demonstrations and scientific discussions linked directly to the ongoing research.
+* participating in oceanographic sampling operations;
+* collecting seawater and other environmental samples;
+* processing samples onboard;
+* microscopy, flow cytometry and other measurements of microbial communities;
+* phytoplankton photophysiology and elemental composition
+* rate measurements of viral lysis, grazing and sinking of phytoplankton;
+* preparation of samples for molecular and genomic analyses;
+* working with environmental, biological or genomic datasets;
+* discussing research activities with researchers aboard the vessel;
+* short lectures, demonstrations, small assignments, and scientific discussions linked directly to the ongoing research.
+
 
 You will experience the full research process – from sampling an ocean water mass to interpreting the resulting biological data – and see how different disciplines are combined during a major field expedition.
 
@@ -50,11 +53,11 @@ You will experience the full research process – from sampling an ocean water m
 
 You will not apply for a predefined project. Instead, we ask you to indicate which PHYVIR PI’s **research themes** most closely match your interests. This will help us understand your scientific interests and, where possible, connect participants with researchers during and potentially before or after the cruise.
 
-Corina Brussaard — marine viral ecology · phytoplankton–virus interactions · microbial oceanography · environmental change · flow cytometry
+Corina Brussaard — marine viral ecology · phytoplankton–virus interactions · microbial oceanography · loss rates . loss rates · environmental change · flow cytometry
 
 Jef Huisman — phytoplankton ecology · community dynamics · species interactions · ecological modelling
 
-Dedmer van de Waal — phytoplankton ecophysiology · stoichiometry · functional traits · environmental change
+Dedmer van de Waal — phytoplankton ecophysiology · cellular compositionstoichiometrycellular composition · functional traits · environmental change
 
 Susanne Wilken — aquatic microbial ecology · microbial interactions · eukaryotic microbes · mixotrophy · transcriptomics
 
@@ -62,18 +65,20 @@ Cara Nissen — marine carbon cycling · marine ecosystem dynamics · biogeochem
 
 Thomas Hackl — viral genomics · environmental metagenomics · bioinformatics · sequencing · microbial eco-evolution
 
+
 **Guy, Yeal, Paula, ???**
 
 ## **Who is eligible?**
 
 You can apply if you:
 
-* are enrolled in an MSc programme at a Dutch university for the duration of the cruise;  
-* have a background in biology, molecular sciences, modelling or another closely related discipline;  
-* preferably via courses in marine biology, oceanography, aquatic ecology, microbiology, molecular biology, bioinformatics, or related fields;  
-* have a collaborative and practical attitude, ideally but not required, with laboratory or field experience;  
-* are enthusiastic about marine science and interdisciplinary research;  
-* are available and committed for the full cruise period, including travel to and from the ship and the required pre-cruise training.
+* are enrolled in an MSc programme at a Dutch university for the duration of the cruise;
+* have a background in biology, molecular sciences, modelling or another closely related discipline;
+* have taken courses in marine biology, oceanography, aquatic ecology, microbiology, molecular biology, bioinformatics, or related fields;
+* have a collaborative and practical attitude, ideally but not required, with laboratory or field experience;
+* are enthusiastic about marine science and interdisciplinary research;
+* are available and committed for the full cruise period and required pre-cruise training.
+
 
 Prior experience at sea is **not required**. We are particularly looking for students who are curious, motivated to participate actively in research, comfortable working in a team, and interested in learning across disciplinary boundaries.
 
@@ -99,17 +104,18 @@ Living and working together for several weeks also requires flexibility, conside
 
 For selected participants, PHYVIR will cover:
 
-* Participation in the summer class and research cruise;  
-* Required sea-survival training;  
-* Travel to and from the ship;  
-* Accommodation where required for the programme;  
-* Food and drinks on board.
+* participation in the summer class and research cruise;  
+* required sea-survival training;  
+* travel to and from the ship;  
+* accommodation where required for the programme;  
+* food and drinks on board.
 
 Participants should expect to arrange and contribute to certain personal requirements, including:
 
-* The required medical examination for the standard “seafarer’s medical fitness certificate”  
-* Appropriate safety footwear and specified personal clothing/equipment.  
-* Food and drinks during travel to and from the ship.
+* the required medical examination for the standard “seafarer’s medical fitness certificate”  
+* appropriate safety footwear
+* personal clothing/equipment
+* food and drinks during travel to and from the ship.
 
 Detailed instructions will be provided to selected students.
 
@@ -121,12 +127,13 @@ We expect to select **10–12 students**.
 
 Selection will be based primarily on:
 
-1. your motivation for participating;  
-2. the relevance of your academic background and potential previous experience;  
-3. the match between your interests and the scientific scope of PHYVIR;  
-4. your willingness to participate actively in the scientific work aboard the vessel.
+1. your motivation for participating;
+2. the relevance of your academic background and potential previous experience;
+3. your willingness to participate actively in the scientific work aboard the vessel;
+4. the match between your interests and the scientific scope of PHYVIR.
 
-We also aim to assemble a diverse class representing **different Master’s programmes and Dutch universities**.
+We also aim to assemble a diverse class while bringing together students from universities across the Netherlands.
+
 
 ## **How to apply**
 
