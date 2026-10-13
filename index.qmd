@@ -3,3 +3,5 @@ title: PHYVIR — Resolving Marine Phytoplankton–Virus Interactions from Local
 ---
 
 ![](PHYVIR-banner.png)
+
+*Awesome science by awesome people :) *

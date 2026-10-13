@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "PHYVIR MSc Class"
+  title: "PHYVIR"
   navbar:
     left:
       - href: index.qmd
@@ -10,17 +10,15 @@ website:
       - href: masterclass.qmd
         text: MSc Class
       - href: https://forms.gle/iS41FhhhLfD139ncA
-        text: MSc Class - Apply
+        text: Apply
     right:
       - href: https://www.nioz.nl/en/news-and-blogs/blog/phyvir-expedition
         text: Blog
       - href: https://www.nioz.nl/en/research/projects/phyvir
-        text: Project
-      - href: https://www.nioz.nl/en/news-and-blogs/news/nwo-science-xl-award-for-resolving-marine-phytoplankton-virus-interactions
         text: NIOZ
       - href: https://www.nwo.nl/en/projects/afomm75533
         text: NWO
-      - href: contact.qmd
+      - href: impressum.qmd
         text: Contact
   page-footer:
     left: "© 2026 PHYVIR Consortium"

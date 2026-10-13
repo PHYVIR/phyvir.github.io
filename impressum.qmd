@@ -1,13 +1,21 @@
-### Website maintainer / Responsible for content
-Dr. Thomas Hackl | 📧 <t.hackl@rug.nl>
-Assistant Professor for [Eco-Evolutionary Bioinformatics](https://research.rug.nl/en/persons/thomas-hackl/)
+
+## PHYVIR MSc Class
+For questions about the summer class or the application process, contact:
+
+Dr. Thomas Hackl | 📧 <t.hackl@rug.nl>\
+Assistant Professor for [Eco-Evolutionary Bioinformatics](https://research.rug.nl/en/persons/thomas-hackl/)\
 GELIFES, University of Groningen
-Nijenborgh 7, 9747 AG Groningen, The Netherlands  
+
+
+### Website maintainers / Responsible for content
+
+Dr. Thomas Hackl | 📧 <t.hackl@rug.nl>\
+Assistant Professor for [Eco-Evolutionary Bioinformatics](https://research.rug.nl/en/persons/thomas-hackl/)\
+GELIFES, University of Groningen
+
 
 ### Disclaimer
-This site contains academic and educational content provided without commercial intent.
-External links are provided for informational purposes; their content remains the
-responsibility of their respective owners.
+This site contains academic and educational content provided without commercial intent. External links are provided for informational purposes; their content remains the responsibility of their respective owners.
 
 ### Privacy
 This website does not use cookies, analytics, or tracking. 
