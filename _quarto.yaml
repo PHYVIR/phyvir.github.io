@@ -6,9 +6,11 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Info
+        text: Home
+      - href: masterclass.qmd
+        text: MSc Class
       - href: https://forms.gle/iS41FhhhLfD139ncA
-        text: Apply
+        text: MSc Class - Apply
     right:
       - href: https://www.nioz.nl/en/news-and-blogs/blog/phyvir-expedition
         text: Blog
