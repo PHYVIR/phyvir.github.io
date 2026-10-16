@@ -7,10 +7,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: masterclass.qmd
-        text: MSc Class
-      - href: https://forms.gle/iS41FhhhLfD139ncA
-        text: Apply
+      #- href: masterclass.qmd
+      #  text: MSc Class
+      #- href: https://forms.gle/iS41FhhhLfD139ncA
+      #  text: Apply
     right:
       - href: https://www.nioz.nl/en/news-and-blogs/blog/phyvir-expedition
         text: Blog
